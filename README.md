@@ -1,1 +1,4 @@
-# QBUS6810
+## QBUS6810
+#### AirBnb is a shortened version of its original name, AirBedandBreakfast.com, it is an American online marketplace and hospitality service brokerage company. The company does not own any of the real estate listings, it receive commissions from each booking, and the members can use its service to offer lodging, tourism experiences, and primarily homestays (wikipedia, 2019). The advantages of Airbnb include wide selections of property types, guests can enjoy additional services such as classes and sightseeing offered by local Airbnb hosts.
+
+#### The purpose of this project is to explore the Airbnb dataset downloaded from kaggle, and build five different models to predict the nightly price of Airbnb listings base on the existing data. The dataset include training set and testing set, and each row in these two dataset corresponds to a separate Airbnb listing in London. The task is to use the prediction variables such as the security_deposit, cleaning_fee, and extra_people, to predict the response variable, price, which is the British pound sterling (GBP) price per night for each listing.
